@@ -1,1 +1,1 @@
-# first-repository
+# java-study
